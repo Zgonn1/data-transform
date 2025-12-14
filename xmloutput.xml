@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <row>
+        <name>3-Year Unlimited Cloud Storage Service Activation Card - Other</name>
+        <description>Enjoy 3 years of unlimited Cloud...</description>
+        <brand>Pogoplug</brand>
+        <categories>Best Buy Gift Cards</categories>
+        <categories>Entertainment Gift Cards</categories>
+        <hierarchicalCategories>
+            <lvl0>Best Buy Gift Cards</lvl0>
+            <lvl1>Best Buy Gift Cards &gt; Entertainment Gift Cards</lvl1>
+        </hierarchicalCategories>
+        <price>70</price>
+        <image>https://cdn-demo.algolia.com/bestbuy/1696302_sc.jpg</image>
+        <objectID>1696302</objectID>
+    </row>
+</root>
